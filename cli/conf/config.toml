@@ -3,8 +3,8 @@ bscSignUser = ""
 bscSignPassword = ""
 
 [transaction]
-fromAddress = "0x2c8f4394D20C46C09FB493dFa2DC0B1b86116406"
+fromAddress = "0x3cb0bdcbdeb23896ee914afbfa45842d43791823"
 amount = "5900000"
 fee = 0
-toAddrFileName = "bsc_d_usb_receipt01.csv"
+toAddrFileName = "toAddress.csv"
 contractAddress = "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
