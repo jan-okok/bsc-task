@@ -1,0 +1,8 @@
+vendor
+.idea/*
+file/*
+cli/log/*
+*.csv
+*.log
+bsctaskcli
+*/.DS_Store
